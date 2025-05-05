@@ -6,6 +6,9 @@ Tecnologías
 - SqlServer (Code First)
 - AutoMapper
 En appsettings.json, ajusta la cadena de conexión dependiendo el nombre que le quieran dar a la BDD y la contraseña del que la use.
+
+"Server=localhost;Port=3306;Database=NOMBRE BASE DE DATOS;Uid=root;Pwd=CONTRASEÑA BASE DE DATOS;"
+
 Ejecuta los siguientes comandos:
 # Restaurar paquetes
 dotnet restore
