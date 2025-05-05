@@ -1,11 +1,11 @@
-ProductAPI - API web de ASP.NET Core - Laura Testa
-Api rest usando .net 8, para gestionar productos y categorias. Incluye Dto, Validaciones,AutoMapper y Swagger.
+## ProductAPI - API web de ASP.NET Core - Laura Testa
+# Api rest usando .net 8, para gestionar productos y categorias. Incluye Dto, Validaciones,AutoMapper y Swagger.
 
 Tecnologías
-.NET 8
-SqlServer (Code First)
-AutoMapper
-En appsettings.json, ajusta la cadena de conexión.
+- .NET 8
+- SqlServer (Code First)
+- AutoMapper
+En appsettings.json, ajusta la cadena de conexión dependiendo el nombre que le quieran dar a la BDD y la contraseña del que la use.
 Ejecuta los siguientes comandos:
 # Restaurar paquetes
 dotnet restore
